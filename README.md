@@ -201,4 +201,4 @@ This repository serves as the official landing page for Spelunky 2. The software
 **Get the most recent version of Spelunky 2 today!**
 
 ---
-**Last updated:** 2026-11-11 18:18:43 UTC
+**Last updated:** 2026-11-12 01:15:39 UTC
